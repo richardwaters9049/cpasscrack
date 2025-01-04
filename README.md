@@ -102,7 +102,7 @@ Password Strength: Weak (Missing complexity)
 
 ### Scenario 3: Strong Password
 
-Enter a password to evaluate: ••••••••••
+Enter a password to evaluate: •••••••••• <br>
 Password Cracked: Password123!
 Password Strength: Strong
 
