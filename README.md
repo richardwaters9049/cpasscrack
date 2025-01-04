@@ -91,13 +91,17 @@ This project uses **OpenSSL** for password hashing. It also relies on **C++11** 
 ### Scenario 1: Weak Password (Too Short)
 
 Enter a password to evaluate: ••••••••
+
 Password Cracked: 123
+
 Password Strength: Weak (Too short)
 
 ### Scenario 2: Weak Password (Missing Complexity)
 
 Enter a password to evaluate: ••••••••••
+
 Password Cracked: password
+
 Password Strength: Weak (Missing complexity)
 
 ### Scenario 3: Strong Password
